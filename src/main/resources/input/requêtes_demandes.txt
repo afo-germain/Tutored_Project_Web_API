@@ -1,0 +1,52 @@
+﻿idrequet edemande, itineraire{posi[dateauplustot/dateauplustard/pickup/delivery]}, nombredeplaces, montant, etat
+4,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+5,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+6,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+7,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+11,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+12,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+13,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+14,bizerte/6/30/7/45/+1/0_tunis/6/30/8/45/0/-1,1,4.75, initialise
+15,sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+16, sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+17,sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+18, sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+19, sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+23,sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+24, sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+25,sousse/6/30/7/30/+1/0_tunis/9/30/10/30/0/-1,1,5.5, initialise
+26,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+27,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+28,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+29,sfax/10/00/11/30/+1/0_tunis/14/15/10/-2,1,18,initialise
+30,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+31,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+32,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+33,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+34,sfax/10/00/11/30/+1/0_tunis/14/15/16/00/0/-2,1,18, initialise
+35,bizerte/6/20/7/20/+3/0_rassjbe1/7/20/8/20/0/-3,3,7.5, initialise
+36,bizerte/6/20/7/20/+3/0_rassjbel/7/20/8/20/0/-3,3,7.5, initialise
+37,bizerte/6/20/7/20/+3/0_rassjbel/7/20/8/20/0/-3,3,7.5, initialise 
+38,bizerte/6/20/7/20/+3/0_rassjbel/7/20/8/20/0/-3,3,7.5, initialise
+39,nabeul/6/20/7/20/+1/0_tunis/8/20/9/20/0/-1,1,6.75, initialise
+40,nabeul/6/20/7/20/+1/0_tunis/8/20/9/20/0/-1,1,6.75, initialise
+41,nabeul/6/20/7/20/+1/0_tunis/8/20/9/20/0/-1,1,6.75, initialise
+42,nabeul/6/20/7/20/+1/0_tunis/8/20/9/20/0/-1,1,6.75, initialise
+43,tunis/6/15/7/15/+2/0_bizerte/7/45/8/30/0/-2,2,9.5, initialise
+44,tunis/6/15/7/15/+2/0_bizerte/7/45/8/30/0/-2,2,9.5, initialise
+45,tunis/6/15/7/15/+2/0_bizerte/7/45/8/30/0/-2,2,9.5, initialise
+46,tunis/6/15/7/15/+2/0_bizerte/7/45/8/30/0/-2,2,9.5, initialise
+47,bizerte/6/45/7/30/+1/0_elalia/7/45/8/30/0/-1,1,1.5, initialise
+48,bizerte/6/45/7/30/+1/0_elalia/7/45/8/30/0/-1,1,1.5, initialise
+49,bizerte/6/45/7/30/+1/0_elalia/7/45/8/30/0/-1,1,1.5, initialise
+50,bizerte/6/45/7/30/+1/0_elalia/7/45/8/30/0/-1,1,1.5, initialise
+51,tunis/6/30/7/30/+1/0_sousse/9/30/10/30/0/-1,1,5.5, initialise
+52,tunis/6/30/7/30/+1/0_sousse/9/30/10/30/0/-1,1,5.5, initialise
+53,tunis/6/30/7/30/+1/0_sousse/9/30/10/30/0/-1,1,5.5, initialise
+54,tunis/6/30/7/30/+1/0_sousse/9/30/10/30/0/-1,1,5.5, initialise
+55,tunis/6/20/7/20/+1/0_nabeul/8/20/9/20/0/-1,1,6.75, initialise
+56,tunis/6/20/7/20/+1/0_nabeu1/8/20/9/20/0/-1,1,6.75, initialise
+57,tunis/6/20/7/20/+1/0_nabeu1/8/20/9/20/0/-1,1,6.75, initialise
+58,tunis/6/20/7/20/+1/0_nabeu1/8/20/9/20/0/-1,1,6.75, initialise
+59,tunis/09/45/10/30/+1/0_sfax/15/00/16/00/0/-1,1,18, initialise
+60,tunis/09/45/10/30/+1/0_sfax/15/00/16/00/0/-1,1,18, initialise
